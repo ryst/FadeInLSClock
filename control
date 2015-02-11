@@ -1,0 +1,9 @@
+Package: com.ryst.fadeinlsclock
+Name: FadeInLSClock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Show the status bar clock on the passcode entry screen.
+Maintainer: ryst
+Author: ryst
+Section: Tweaks
